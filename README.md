@@ -1,18 +1,3 @@
-<h1 align="left">Hi there 👋!</h1>
-
-###
-
-<p align="left">My name is Ricardo and I'm a Full Stack Developer from Brazil.<br>I'm mostly focused on creating applications for mobile devices, but from time to time I play with some other things :)</p>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=ricardosohn" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=ricardosohn" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
